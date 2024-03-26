@@ -1,0 +1,5 @@
+### Publishing changes
+
+- If you created any new files, `git add .`
+- `git commit -m "message"`
+- `git push`
