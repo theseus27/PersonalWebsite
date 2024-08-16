@@ -795,7 +795,7 @@ figcaption {
   margin-bottom: 12px;
   padding-top: 0;
   padding-left: 0;
-  font-size: 18px;
+  font-size: 24px;
 }
 
 .cardtext.contact {
@@ -1231,9 +1231,14 @@ figcaption {
 }
 
 .infocols {
-  width: 100%;
+  width: 90%;
   margin-left: 0;
   margin-right: 0;
+}
+
+.infocol {
+  width: 50%;
+  margin-left: 0%;
 }
 
 .infocolbold, .infocolreg {
